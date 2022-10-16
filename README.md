@@ -31,10 +31,16 @@ Lot 1
 
 ![Lot_1_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_1_Ttest.png)
 
+Lot 1 has a p-value of 1. There is deviation form the null hypothesis and we reject the null hypothesis.
+
 Lot 2
 
 ![Lot_2_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_2_Ttest.png)
 
+Lot 2 has a lower p-value of 0.6072 but is still higher than .05. Again lot 2 has deviation from the null hypothesis and thus we reject the null hypothesis
+
 Lot 3
 
 ![Lot_3_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_3_Ttest.png)
+
+Lot 3 however has a p-value of .04168. There is statistical significance in lot 3 and we accept the null hypothesis.
