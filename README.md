@@ -25,3 +25,16 @@ Lot Summary
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 - When looking at the total_summary the variance it 62.29356. This falls within the 100 PSI limit. When we break it down by lot the data tells a more interesting story. Lot 1 and Lot 2 are within the 100 PSI variance limit with 0.9795918 and 7.4693878 respectivly. Lot 3 has a variance of 170.2861224 and is way outside of the vanriance limit. 
+
+##### T-Tests on Suspension Coils
+Lot 1
+
+![Lot_1_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_1_Ttest.png)
+
+Lot 2
+
+![Lot_2_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_2_Ttest.png)
+
+Lot 3
+
+![Lot_3_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_3_Ttest.png)
