@@ -10,3 +10,5 @@
 - There are two variables, vehicle_length and ground_cleareance, that suggest that there is a non-random amount of variance. Their t-values are much larger than one and suggest that they do impact miles per gallon. 
 - The p-Value is 5.35e-11 which is way smaller than the %0.05 assumed significance level. This suggest that the slope of the linear model is not zero and means that we can reject the null hypothesis.
 - The R-squared value is 0.7149. This means that the model predicts %71 of the miles per gallon. This also means that the model is effective in predicting miles per gallon.
+
+![Summary_Deliverable_1.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Summary_Deliverable_1.png)
