@@ -44,3 +44,23 @@ Lot 3
 ![Lot_3_Ttest.png](https://github.com/mselover21/MechaCar_Statistical_Analysis/blob/main/Images/Lot_3_Ttest.png)
 
 Lot 3 however has a p-value of .04168. There is statistical significance in lot 3 and we accept the null hypothesis.
+
+
+###### Study Design: MechaCar vs Competition
+
+MechaCar management would like to know how our product stacks up to the competition. To do this we can create a statistical study to compare our product with other manufators.
+- What metric or metrics are you going to test?
+    - Fuel Efficiency
+    - Safety Rating
+    - Handeling During Harsh Weather
+- What is the null hypothesis or alternative hypothesis?
+    - Null Hypothesis
+        - There is no statistical difference between MechaCar and the competition.
+    - Alternative Hypothesis
+        - There is statistical difference between MechaCar and the competition.
+- What statistical test would you use to test the hypothesis? And why?
+    - For Fuel Efficiency and Saftey Rating I would use a Two-Sample t-Test because we are looking for distinct statistical differences between MechaCar and the competition.
+    - For Handling During Harsh Weather I would use a Chi-Squared Test since we are looking for differences in categorical frequencies between MechaCar and the competition.
+- What data is needed to run the statistical test?
+    - We would need to gather information on MechaCar and the competition particularily with Handleing During Harsh Weather.
+    - We would also need to collect Safety Rating and Fuel Efficiency for the competition to create the statistical study.    
